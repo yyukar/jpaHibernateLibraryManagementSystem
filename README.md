@@ -61,3 +61,14 @@ src/
   <img src="ss1.png" style="border-radius: 15px;">
 <img src="ss2.png" style="border-radius: 15px;">
 </p>
+
+## Thanks
+
+This project was created with the support of [Patika.dev](https://www.patika.dev), as part of their free software development education platform. Special thanks to their community and resources.
+
+---
+
+## License
+
+This project is currently not licensed.  
+You are free to review and learn from the code.
