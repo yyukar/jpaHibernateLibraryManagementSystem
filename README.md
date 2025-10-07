@@ -64,6 +64,7 @@ src/
 
 ## Thanks
 
+
 This project was created with the support of [Patika.dev](https://www.patika.dev), as part of their free software development education platform. Special thanks to their community and resources.
 
 ---
